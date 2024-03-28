@@ -42,7 +42,7 @@
 
 ## Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
 
-# num1 = int(input("Digite um número inteiro qualquer: \n"))
+# num1 = int(input("Digite um número inteiro qualquer: \n")) 
 
 # quad = num1**2
 
